@@ -1,0 +1,7 @@
+{
+  "AcornSystem": true,
+  "ChallengeSystem": true,
+  "DoubleClickSystem": true,
+  "EventLevelSystem" : true,
+  "CircusSystem" : false
+}

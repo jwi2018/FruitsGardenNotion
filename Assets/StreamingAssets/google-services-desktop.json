@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "998698246644",
+    "project_id": "fruits-garden-23e7f",
+    "storage_bucket": "fruits-garden-23e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998698246644:android:696422a306ce300c3059a1",
+        "android_client_info": {
+          "package_name": "com.icecube.gardenmatch.android.free.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998698246644-p57lhdlb13efcajeh7tke7qi5jp27ogm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSLnWfAgFWBIQ5mWUTkB9lYGVTq7asbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998698246644-p57lhdlb13efcajeh7tke7qi5jp27ogm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998698246644-etg2qn23q5dsl3ak2fbgn4eai8rtvu2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icecube.gardenmatch.appstore.free.puzzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
