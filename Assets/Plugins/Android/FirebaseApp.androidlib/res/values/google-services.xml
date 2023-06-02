@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">998698246644</string>
+  <string name="google_storage_bucket" translatable="false">fruits-garden-23e7f.appspot.com</string>
+  <string name="project_id" translatable="false">fruits-garden-23e7f</string>
+  <string name="google_api_key" translatable="false">AIzaSyDaSLnWfAgFWBIQ5mWUTkB9lYGVTq7asbM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaSLnWfAgFWBIQ5mWUTkB9lYGVTq7asbM</string>
+  <string name="google_app_id" translatable="false">1:998698246644:android:696422a306ce300c3059a1</string>
+  <string name="default_web_client_id" translatable="false">998698246644-p57lhdlb13efcajeh7tke7qi5jp27ogm.apps.googleusercontent.com</string>
+</resources>
